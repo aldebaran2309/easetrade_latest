@@ -28,16 +28,12 @@ pandas_datareader
 Setup Instructions
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
 Install required libraries:
 
 You can install all the dependencies using pip:
 
 bash
-Copy code
+
 pip install -r requirements.txt
 Download or prepare your LSTM model:
 
@@ -47,8 +43,9 @@ Run the Streamlit app:
 
 To launch the application, simply run the following command:
 
-bash
-Copy code
+clone the repo
+git clone https://github.com/aldebaran2309/easetrade_latest.git
+
 streamlit run app.py
 Access the app:
 
